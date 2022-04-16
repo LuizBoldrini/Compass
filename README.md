@@ -1,6 +1,6 @@
 # Desafio 01-NodeJS
 
-## Pergutas:
+## Perguntas:
 
 &nbsp;
 ### **1.Para que serve o método Scrum?**
