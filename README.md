@@ -1,11 +1,10 @@
 # Desafio 01-NodeJS
 ## Nome: Luiz Emanuel j. Boldrindi
-&nbsp;
 
 ## Perguntas:
 
 ### **1.Para que serve o método Scrum?**
-É uma metodologia ágil que é utilizada para gestão e organização de projetos que são complexos em que não se conhece todas as etapas ou necessidades. Tem como foco a distribuição de tarefas por etapas, em que o time de desenvolvimento realiza processos mais simples e claros, tendo em nota todo o caminho que foi percorrido. 
+É uma metodologia ágil que é utilizada para gestão e organização de projetos que são complexos em que não se conhece todas as etapas ou necessidades. Tem como foco a distribuição de tarefas por etapas, em que o time de desenvolvimento realiza processos mais simples e claros, tendo em nota todo o caminho que foi percorrido.
 
 ### **2.Como funciona o método Scrum?**
 Ele se inicia quando um projeto precisa de três fatores principais; transparência, Inspeção e Adaptação:
