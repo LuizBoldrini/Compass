@@ -54,13 +54,13 @@ A branch master é o ramo em que já iniciamos quando entramos em um repositóri
 
 &nbsp;
 ### **11.Pensando em bases de dados, sendo elas, Relacionais (SQL) e Não Relacionais (NoSQL). Quais alternativas abaixo estão corretas?**
-( )MySQL = MongoDB 
+[ ]MySQL = MongoDB 
 
-( )PostgreSQL = Redis
+[ ]PostgreSQL = Redis
 
-( )Oracle = CouchDB
+[ ]Oracle = CouchDB
 
-(x)Todas as alternativas estão corretas. 
+[x]Todas as alternativas estão corretas. 
 
 &nbsp;
 ### **12.O que é MongoDB?** 
@@ -93,23 +93,23 @@ O método PUT irá substituir um arquivo (ou recurso). Se não houver nenhum arq
 
 &nbsp;
 ### **18.Qual a extensão ".xxx" contém as definições da tabela?** 
-( )Commands.myi 
+[ ]Commands.myi 
 
-( )Commands.frm 
+[ ]Commands.frm 
 
-(x)Commands.myd
+[x]Commands.myd
 
-( ){mysqlDirectory}/data 
+[ ]{mysqlDirectory}/data 
 
 &nbsp;
 ### **19.A pasta "C:\ProgramData" é uma pasta oculta, portanto, você deve digitá-la no endereço do Windows Explorer para chegar lá. Nessa pasta de dados, quais opções apresentam o caminho correto para acessar os bancos de dados que foram denominados?** 
-( )/{database_name_folder}/{database_tables_and_files}.
+[ ]/{database_name_folder}/{database_tables_and_files}.
 
-( )C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.frm 
+[ ]C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.frm 
 
-(x)C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd
+[x]C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\mytable.ibd
 
-( )C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery 
+[x]C:\ProgramData\MySQL\MySQL Server 5.6\data\mydatabase\data-recovery 
 
 &nbsp;
 ### **20.Qual a extensão ".xxx" que contém os dados da tabela?**
@@ -129,19 +129,9 @@ Quando se precisa de um banco de dados livre e que seja não relacional, ou seja
     2xx = Realizado com sucesso.
     3xx = Há uma necessidade de uma ação pelo browser.
     4xx = Erro com o cliente.
-    5xx = Erro com o servidor(problema interno).
+    5xx = Erro com o servidor(problema interno)
 
 &nbsp;
 ### **24.Conta pra gente como foi sua experiência na Sprint#01 do programa de bolsa @node.js_mar22 e quais suas expectativas a partir de agora:** 
  Foi muito interessante e educativo; foram disponibilizados vários cursos para entendermos que programação na web não se limita apenas a codar. Para que se possa chegar a um resultado positivo, existem vários caminhos ou trilhas para se seguir e com muitas outras pessoas(nada se faz sozinho). Espero que com esses conhecimento que foi adquirido possa me ajudar nos desafios que estão por vir e que possa retribuir da melhor forma possível, não só neste programa, mas também em futuros desafios no decorrer da vida. 
-
-
-
-
  
-
-
-
-
-
-
